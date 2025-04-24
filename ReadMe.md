@@ -1,2 +1,4 @@
 # Ruang.studio 
-Coming Soon
+A repository for storing simple website templates using the Tailwind and Boostrap frameworks
+
+### Coming Soon ... 
